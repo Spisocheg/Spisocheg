@@ -29,6 +29,8 @@ https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv
 https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white
 -->
 
+<h2>About</h2>
+<p>I have been programming in Python for the last 3 years. I create telegram bots, parsers, web applications, and desktop programs.</p>
 
 <h2>My LeetCode progress:</h2>
 <p><img alt="Spisocheg LeetCode stats dark" src="https://leetcode-badge-sage.vercel.app/badge/Spisocheg?theme=dark&amp;bgColor=282828"></p>
