@@ -35,7 +35,7 @@ https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoCo
 <h2>My LeetCode progress:</h2>
 <p><img alt="Spisocheg LeetCode stats dark" src="https://leetcode-badge-sage.vercel.app/badge/Spisocheg?theme=dark&amp;bgColor=282828"></p>
 
-<h2>Contacts:</h2>
+<h2>Contacts (click on tile):</h2>
 <a href="https://t.me/Spisocheg"><img alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <!--
